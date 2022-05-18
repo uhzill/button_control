@@ -74,7 +74,7 @@ p{
     color: #fff;
 }
 .samll{
-    font-size: small;
+    font-size: 12px;
 }
 #box{ margin: 310px 0 0 310px; width: 198px; height: 198px; background-color: #ffffff; border-radius: 10px; position: relative; top:0; left:0; transition: all .5s; overflow: hidden;} 
     /* .5 = 0.5 */
